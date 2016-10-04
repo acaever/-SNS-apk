@@ -1,0 +1,6 @@
+{
+  "name": "Stellar member SNS search",
+  "tagline": "",
+  "body": "스텔라 멤버별 트위터와 인스타그램의 내용을 검색하기 위해 앱인벤터를 이용하여 만듬\r\n\r\nhttps://www.google.co.kr/?gfe_rd=cr&ei=E4cZU9inHIqakgXy-oHoDA#newwindow=1&q=\r\n+ 구글검색어를 넣는 방식으로 하단에 내용을 보여주는 방식\r\n\r\n필터링방법\r\n트위터 site://twitter.com/Stellar_GY\r\n\r\n인스타그램 해당멤버별로 검색이 불가하여 인스타그램으로 1차 필터링후 그냥 추가로 단어를 넣는 방식으로 변경 \r\nsite://www.instagram.com gy_stellar\r\n\r\n[가영SNS검색 apk](https://drive.google.com/open?id=0B7dFofzXIIEMU19ibFVNWTNfYWM)\r\n[민희SNS검색 apk](https://drive.google.com/open?id=0B7dFofzXIIEMOElzNzF2cERDZnc)\r\n[효은SNS검색 apk](https://drive.google.com/open?id=0B7dFofzXIIEMQm9qLWpzZVVoSzg)\r\n[전율SNS검색 apk](https://drive.google.com/open?id=0B7dFofzXIIEMSHpxeFAxSWRIOUk)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
